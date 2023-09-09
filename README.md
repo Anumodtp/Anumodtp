@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **Anumodtp/Anumodtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🔥 Some fun facts about me:
 
 * 🎓 Pursuing BTech in Computer Science Engineering at College of Engineering Munnar, Kerala
-* 🤖 Love to Code 
+* ✌️ Love to Code 
 * 🌱 I’m currently focusing on Web Development, Python
 * 😊 Love spending time with my friends
 
@@ -37,12 +37,5 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.anumod.__/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AnumodTp15156)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anumodtp555@gmail.com)
-## Contribution Graph Snake🐍
-
-<div align="center"> 
-  <a href="https://github.com/Platane/snk">
-    <img src="https://github.com/Anumodtp/Anumodtp/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-  </a>
-</div>
 
 
