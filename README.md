@@ -43,8 +43,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Platane/snk">
     <img src="https://github.com/Anumodtp/Anumodtp/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
   </a>
-  ![Snake animation](https://github.com/Anumodtp/Anumodtp/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 
