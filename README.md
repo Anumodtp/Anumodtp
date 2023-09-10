@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-  <img src="https://github.com/Anumodtp/Anumodtp/blob/main/name.gif" alt="anumod" />
+  <img src="https://github.com/Anumodtp/Anumodtp/blob/main/name.png" alt="anumod" />
 </div><br>
 
 ## 🔥 Some fun facts about me:
