@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
  ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,java,c)]()
 
 
 
